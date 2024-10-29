@@ -6,8 +6,8 @@ This project analyzes hotel data to understand trends and patterns in the hospit
 
 ## Repository Structure
 - **data**: Contains raw data files.
-- **output**: Contains processed files and results of the analysis.
-- **scripts**: Contains scripts for data processing and analysis.
+- **output**: Contains processed files and results of the analysis and graphs.
+- **scripts**: Contains scripts for data processing and analysis in Python and Stata as well.
 
 ## Prerequisites
 - Python 3.8+
