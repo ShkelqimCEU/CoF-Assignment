@@ -1,5 +1,5 @@
 # Intro
-This is an assignment with 15 tasks to demonstrate skills in Coding for Economic class at Central European University, Vienna.
+This is an assignment with 15 tasks to demonstrate skills in Coding for Economists class at Central European University, Vienna.
 
 ## Description
 This project analyzes hotel data to understand trends and patterns in the hospitality industry in Vienna. It uses Python and Stata for data processing and visualization.
